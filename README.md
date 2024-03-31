@@ -4,7 +4,7 @@ This is the right place to report a bug or a minor shortcoming in the Scala 2 co
 
 ## Where is Scala 3?
 
-At [lampepfl/dotty](https://github.com/lampepfl/dotty).
+At [scala/scala3](https://github.com/scala/scala3).
 
 ## No questions, please
 
