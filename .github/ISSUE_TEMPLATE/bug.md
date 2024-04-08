@@ -12,7 +12,7 @@ See [repo README](https://github.com/scala/bug) for guidance on what qualifies a
 
 ## Reproduction steps
 
-Scala version: (Is the bug only in Scala 3.x? If so, report it at https://github.com/lampepfl/dotty/issues/new/choose instead.)
+Scala version: (Is the bug only in Scala 3.x? If so, report it at [scala/scala3](https://github.com/scala/scala3/issues/new/choose) instead.)
 
 ```scala
 scala> println("hello, world")
